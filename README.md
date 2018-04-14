@@ -13,7 +13,7 @@ I also noticed while I was testing that the output for question one is different
 
 To run the application you should be able to run it in the Visual Studio. Its a simple C# form application you will be able to input any string and it should output the results at the bottom.
 
-##### Total Time: 5.5 hours
+##### Total Time: 2.5 hours
 
 ### Question 3:
 ##### File Name: GitHub
@@ -23,5 +23,5 @@ The information is not all displayed on the screen.
 
 To run the application all you will need is to open the solution inside Visual Studio, once its running you should be able to enter the username in the first slug in the URL. like this https://localhost:32000/haacked
 
-##### Total Time: 2.5 hours
+##### Total Time: 5.5 hours
 
