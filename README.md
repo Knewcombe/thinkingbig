@@ -1,4 +1,4 @@
-# thinkingbig
+# Thinkingbig
 Test projects from thinking big.
 
 ## Notes:
