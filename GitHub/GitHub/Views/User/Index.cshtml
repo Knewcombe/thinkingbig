@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@{ 
+    string name = (string)ViewData["name"];
+    string image = (string)ViewData["image"];
+    string username = (string)ViewData["username"];
+    string bio = (string)ViewData["bio"];
+    string location = (string)ViewData["location"];
+    string work = (string)ViewData["work"];
+    string link = (string)ViewData["link"];
+}
+
+<img src="@image" width="100" height="100"/>
+<h2>@name</h2>
+<h3>@username</h3>
+<p>@bio</p>
+<p>@work</p>
+<p>@location</p>
+<p>@link</p>

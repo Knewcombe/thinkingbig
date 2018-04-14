@@ -1,0 +1,12 @@
+D:\Work\Thinking Big\Triplet\QuestionOne\bin\Debug\QuestionOne.exe.config
+D:\Work\Thinking Big\Triplet\QuestionOne\bin\Debug\QuestionOne.exe
+D:\Work\Thinking Big\Triplet\QuestionOne\bin\Debug\QuestionOne.pdb
+D:\Work\Thinking Big\Triplet\QuestionOne\obj\Debug\QuestionOne.csprojResolveAssemblyReference.cache
+D:\Work\Thinking Big\Triplet\QuestionOne\obj\Debug\QuestionOne.Form1.resources
+D:\Work\Thinking Big\Triplet\QuestionOne\obj\Debug\QuestionOne.Properties.Resources.resources
+D:\Work\Thinking Big\Triplet\QuestionOne\obj\Debug\QuestionOne.csproj.GenerateResource.Cache
+D:\Work\Thinking Big\Triplet\QuestionOne\obj\Debug\QuestionOne.exe
+D:\Work\Thinking Big\Triplet\QuestionOne\obj\Debug\QuestionOne.pdb
+D:\Work\Thinking Big\Triplet\QuestionOne\bin\Debug\nunit.framework.dll
+D:\Work\Thinking Big\Triplet\QuestionOne\bin\Debug\nunit.framework.pdb
+D:\Work\Thinking Big\Triplet\QuestionOne\bin\Debug\nunit.framework.xml
